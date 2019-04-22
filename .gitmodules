@@ -1,0 +1,3 @@
+[submodule "python-micromingus"]
+	path = python-micromingus
+	url = https://github.com/MatthewCroughan/python-micromingus
